@@ -1,6 +1,7 @@
 # Underwater Minesweeper : Mine Classification Using SONAR Data
 
-Highlights
+# Highlights
+
 Yeo-Johnson transformation was done on the dataset because most of the features are skewed.
 
 There is a notable increase in accuracy after the features were scaled for kNN and SVC.
