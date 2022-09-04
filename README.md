@@ -13,3 +13,6 @@ Machine Learning Course Submission
 4. It is important to have a holdout data set to test the model’s performance after training and validation.
 
 5. Depending on the problem, precision or recall is more important than the accuracy of the model.
+
+![image](https://user-images.githubusercontent.com/71246479/188295992-fa3da74a-271a-4a1f-94c3-f634616589b2.png)
+
