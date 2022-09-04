@@ -2,6 +2,10 @@
 
 Machine Learning Course Submission
 
+See full report here:
+
+[a link](https://github.com/mbdelaresma/rock_mine_classification/blob/main/FinalReport.ipynb)
+
 # Highlights
 
 1. Yeo-Johnson transformation was done on the dataset because most of the features are skewed.
