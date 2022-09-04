@@ -2,6 +2,10 @@
 
 Machine Learning Course Submission
 
+Patrol ships with sonar capabilities are used to survey the seas for possible underwater mines. These boats are usually specialized to do passive countermeasures like mine detection without being detected. And in this study, several rock and metal items were simulated as underwater objects and using sonar, the energy feedback was recorded and used to interpret their corresponding classification.
+
+The dataset consists of 208 samples with a specific pattern represented by its features. Each feature ranges from 0 to 1 and represents the energy within a particular frequency band, over a period of time.
+
 See full report (ipynb) [HERE](https://github.com/mbdelaresma/rock_mine_classification/blob/main/FinalReport.ipynb)
 
 # Highlights
