@@ -2,7 +2,7 @@
 
 Machine Learning Course Submission
 
-See full report [here:](https://github.com/mbdelaresma/rock_mine_classification/blob/main/FinalReport.ipynb)
+See full report (ipynb) [HERE](https://github.com/mbdelaresma/rock_mine_classification/blob/main/FinalReport.ipynb)
 
 # Highlights
 
